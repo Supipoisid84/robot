@@ -22,7 +22,7 @@ Robotis kasutasin järgmisi komponente:
 ## Pildid
 
 ### Skeem ja kasutatud osad
-![Skeem ja osad](images/skeem.jpg)
+![Skeem ja osad](images/skeem.png)
 
 ### Valmis robot ja pult
 ![Robot ja pult](images/robot-ja-pult.jpg)
